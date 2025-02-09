@@ -92,7 +92,6 @@ This project followed the **Scrum methodology**, with the following structure:
 - **Team Size:** 4 members  
 - **Sprints:** 3 iterations  
 - **Roles:** Each member took turns as **Scrum Master**  
-- **Tools Used:** Trello for task management, Git for version control  
 
 Key Scrum practices implemented:
 - **Daily Standups** to track progress  
