@@ -25,7 +25,7 @@ cd class-scheduler
 Ensure you have **Python 3** installed, then run:
 
 ```sh
-pip install flask pandas prettytable
+pip install -r requirements.txt
 ```
 
 ### **3. Set Up the Database**
